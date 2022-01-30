@@ -1,0 +1,24 @@
+{
+  "name": "tutorial-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LilithLovesYou/tutorial-bot.git"
+  },
+  "author": "LilithLovesYou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LilithLovesYou/tutorial-bot/issues"
+  },
+  "homepage": "https://github.com/LilithLovesYou/tutorial-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^14.3.2"
+  }
+}
